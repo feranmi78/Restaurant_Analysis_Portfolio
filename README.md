@@ -1,4 +1,5 @@
  # **Restaurant Analysis Portfolio**
+
 **Overview**
 This project analyzes a comprehensive restaurant dataset to uncover actionable insights into restaurant operations, customer preferences, and geographic trends. The analysis spans multiple dimensions, including:
 City-wise Insights
