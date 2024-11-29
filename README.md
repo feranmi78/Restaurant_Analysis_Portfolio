@@ -1,6 +1,6 @@
  # **Restaurant Analysis Portfolio**
 
-**Overview**
+# **Overview**
 This project analyzes a comprehensive restaurant dataset to uncover actionable insights into restaurant operations, customer preferences, and geographic trends. The analysis spans multiple dimensions, including:
 City-wise Insights
 Price Range Distribution
@@ -10,7 +10,7 @@ Geospatial Analysis
 Sentiment Analysis from Reviews
 The project showcases my data cleaning, visualization, geospatial analysis, and text processing skills using Python. I completed this as part of my internship, and it highlights real-world problem-solving with data.
 
-**Key Features**
+# **Key Features**
 1. City Analysis
 Identifies cities with the most restaurants and the highest average ratings.
 2. Price Range Trends
@@ -24,7 +24,7 @@ Visualizes restaurant clusters and identifies underserved areas using geospatial
 6. Sentiment Analysis
 Extracts common keywords from reviews and evaluates the relationship between review length and ratings.
 
-**Insights and Applications**
+# **Insights and Applications**
 1. Location Planning
 Use geospatial trends to target hotspots or underserved areas for restaurant openings.
 2. Customer Feedback
@@ -34,10 +34,10 @@ Align pricing with customer expectations and services offered.
 4. Cuisine Innovation
 Experiment with high-rated cuisine combinations to attract more customers.
 
-**Skills and Tools**
-**Languages**
+# **Skills and Tools**
+# **Languages**
 Python
-**Libraries**
+# **Libraries**
 Pandas
 NumPy
 Seaborn
@@ -46,14 +46,14 @@ Geopandas
 Folium
 NLTK
 
-**Techniques**
+# **Techniques**
 Data Cleaning
 Visualization
 Geospatial Analysis
 Correlation Analysis
 Sentiment Analysis
 
-### **Challenges and Solutions**
+# **Challenges and Solutions**
 1. **Handling Missing and Inconsistent Data**  
    **Challenge**: Missing values and inconsistent data formats in key columns like `City`, `Cuisines`, and `Aggregate Rating`.  
    **Solution**: Used Pandas functions like `dropna()` and data type conversions to clean and preprocess the dataset.
